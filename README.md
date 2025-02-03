@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Pedro Trotta, tenho 23 anos e sou natural do Mato Grosso do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Graduado em Análise e Desenvolvimento de Sistemas na UCDB. Sou apaixonado por tecnologia e amo viver disso.
+My name is Pedro Trotta, I am a Software Engineer Full Stack, i love make websites, systems and games :).
 
 <p align="left">
          <a href="https://github.com/PEDRONCIOOO?tab=repositories">
