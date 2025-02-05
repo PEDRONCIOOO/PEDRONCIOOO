@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-My name is Pedro Trotta, I am a Software Engineer Full Stack, i love make websites, systems and games :).
+My name is Pedro Trotta, I am a Software Engineer Full Stack, i love make websites, ios/android apps, systems and games :).
 
 <p align="left">
          <a href="https://github.com/PEDRONCIOOO?tab=repositories">
