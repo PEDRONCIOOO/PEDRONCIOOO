@@ -1,6 +1,6 @@
 # 👱‍♂️ Pedro Trotta
 
-**`Desenvolvedor FullStack`**
+**`Software Engineer`**
 
 https://trotta.dev
 
