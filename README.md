@@ -26,7 +26,7 @@ I'm currently a **Senior Software Engineer at Axia Digital Solutions**, where I 
 - 🚀 Led a **monolith-to-microservices migration** at Globoo as Tech Leader, improving scalability and deployment velocity
 - 💰 Delivered **50+ fintech projects** across digital banking, payment gateways, crypto wallets, exchanges, and tokenization platforms
 - 📐 Strong advocate for **TDD/BDD**, CI/CD pipelines, and infrastructure as code
-- 🤖 Active AI tools user — integrating AI agents into daily development workflows for higher leverage output
+- 🤖 Active AI tools user integrating AI agents into daily development workflows for higher leverage output
 - 🎮 Gamer & manga enthusiast in my off-hours
 
 ---
