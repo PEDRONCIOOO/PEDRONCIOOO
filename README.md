@@ -4,7 +4,7 @@ I build scalable fintech platforms and ship production-grade software that impac
 
 Most of my work is hands-on: designing microservices architectures, building multi-client digital banking systems, and integrating crypto ecosystems with traditional banking always focused on clean code, performance, and reliability.
 
-I'm currently a **Senior Software Engineer at Axia Digital Solutions**, where I develop a white-label digital banking platform serving multiple clients across Latin America.
+I'm a **Full-Stack Software Engineer** with 6+ years of experience
 
 🌐 [trotta.dev](https://trotta.dev)
 
@@ -22,7 +22,7 @@ I'm currently a **Senior Software Engineer at Axia Digital Solutions**, where I 
 
 ### About Me
 
-- 🏦 **Senior Software Engineer** at Axia Digital Solutions building a multi-client digital banking platform connecting internet banking with crypto ecosystems
+- 🏦 **Full-Stack Engineer** building a multi-client digital banking platform connecting internet banking with crypto ecosystems
 - 🚀 Led a **monolith-to-microservices migration** at Globoo as Tech Leader, improving scalability and deployment velocity
 - 💰 Delivered **50+ fintech projects** across digital banking, payment gateways, crypto wallets, exchanges, and tokenization platforms
 - 📐 Strong advocate for **TDD/BDD**, CI/CD pipelines, and infrastructure as code
