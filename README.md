@@ -8,6 +8,8 @@ I'm a **Full-Stack Software Engineer** with 6+ years of experience
 
 🌐 [trotta.dev](https://trotta.dev)
 
+Most recent product: [ticoai.app](https://ticoai.app)
+
 ---
 
 ### What I Work On
